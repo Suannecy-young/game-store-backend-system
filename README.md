@@ -4,7 +4,6 @@
 ![Spring](https://img.shields.io/badge/Framework-Spring-green)
 ![Redis](https://img.shields.io/badge/Cache-Redis-red)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Build](https://img.shields.io/badge/Build-Maven-yellow)
 
 > **An industrial-grade backend prototype designed for high concurrency, data consistency, and system decoupling.**
 >
