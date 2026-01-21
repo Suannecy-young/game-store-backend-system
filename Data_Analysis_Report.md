@@ -1,4 +1,4 @@
-# 🎮 High-Performance GameStore Backend
+# 🎮 Secure-Game-ECommerce-Logic-Provider
 
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-green)
 ![Database](https://img.shields.io/badge/Database-MySQL%20(3NF)-blue)
